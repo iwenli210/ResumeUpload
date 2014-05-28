@@ -1,0 +1,11 @@
+E:\Project\CMS_UploadImage\CMS_UploadImage\CmsUploadImage\bin\Debug\CmsUploadImage.dll
+E:\Project\CMS_UploadImage\CMS_UploadImage\CmsUploadImage\bin\Debug\CmsUploadImage.pdb
+E:\Project\CMS_UploadImage\CMS_UploadImage\CmsUploadImage\obj\Debug\ResolveAssemblyReference.cache
+E:\Project\CMS_UploadImage\CMS_UploadImage\CmsUploadImage\obj\Debug\CmsUploadImage.Properties.Resources.resources
+E:\Project\CMS_UploadImage\CMS_UploadImage\CmsUploadImage\obj\Debug\CmsUploadImage.csproj.GenerateResource.Cache
+E:\Project\CMS_UploadImage\CMS_UploadImage\CmsUploadImage\obj\Debug\CmsUploadImage.dll
+E:\Project\CMS_UploadImage\CMS_UploadImage\CmsUploadImage\obj\Debug\CmsUploadImage.pdb
+E:\Project\CMS_UploadImage\CMS_UploadImage\CmsUploadImage\obj\Debug\CmsUploadImage.frmIndex.resources
+E:\Project\CMS_UploadImage\CMS_UploadImage\CmsUploadImage\obj\Debug\CmsUploadImage.frmOriginal.resources
+E:\Project\CMS_UploadImage\CMS_UploadImage\CmsUploadImage\obj\Debug\CmsUploadImage.frmUploadImg_Keep.resources
+E:\Project\CMS_UploadImage\CMS_UploadImage\CmsUploadImage\obj\Debug\CmsUploadImage.test.resources
